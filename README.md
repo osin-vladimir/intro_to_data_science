@@ -1,11 +1,10 @@
-# into_to_ds_with_python
-Introduction to Data Science with Python 
+## Introduction to Data Science with Python 
 
-# Preliminary syllabus 
+### Preliminary syllabus 
 
 Dataset: Titanic
 
-# Preparation
+### Preparation
  - Lecture: types of data
  - Python
     - Matrix Multiplication
@@ -13,7 +12,7 @@ Dataset: Titanic
  - Matplotlib/ggplot
  - Pandas 
  
-# Model selection
+### Model selection
   - Lecture: when acc is not working
   - Confusion matrix
   - Type of errors
@@ -26,6 +25,6 @@ Dataset: Titanic
     - ROC
     - RMSE, MSE, R2
     
-# Probability
+### Probability
   - Disrete, Cont Distr
   - PDF, CDF, CLT
