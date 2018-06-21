@@ -8,6 +8,7 @@ Dataset: Titanic
  - Lecture: types of data
  - Python
     - Matrix Multiplication
+    - Find Difference Between Dates
  - Numpy 
  - Matplotlib/ggplot
  - Pandas 
