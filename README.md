@@ -1,7 +1,7 @@
-## Introduction to Data Science with Python 
+# Introduction to Data Science with Python 
 
 
-### Installation
+## Installation
 
 ### Windows
 
@@ -11,12 +11,17 @@
 ### Ubuntu
 
 1. Update your system software: 
-  - sudo apt-get update && sudo apt-get -y upgrade
+```
+sudo apt-get update && sudo apt-get -y upgrade
+```
 2. Install pip:
-    - sudo apt-get install python-pip
+```
+sudo apt-get install python-pip
+```
 3. Install required packages:
-  - pip intall package_name (substitute package_name with numpy, matplotlib, pandas, jupyterlab)
-
+```
+pip intall package_name (substitute package_name with numpy, matplotlib, pandas, jupyterlab)
+```
 Note: Installation steps is not unique for all systems and Python versions. The goal of manual just give you a nice direction. Play with installation, search for any upcomming issues. Most of the solved alredy and available online. 
 
 
