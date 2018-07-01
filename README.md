@@ -1,12 +1,14 @@
 # Introduction to Data Science with Python 
 
-
 ## Installation
 
 ### Windows
 
 1. Download [Anaconda](https://www.anaconda.com/download/).
 2. Check [this](https://docs.anaconda.com/anaconda/) for more information about Anaconda and install it. 
+3. To use provided notebooks launch Jupyter Notebook or Jupyter Lab from Anaconda [Navigator](https://docs.anaconda.com/anaconda/navigator/). 
+
+**Note:** For your convinience Anaconda cheatsheats added to 
 
 ### Ubuntu
 
@@ -22,35 +24,19 @@ sudo apt-get install python-pip
 ```
 pip intall package_name (substitute package_name with numpy, matplotlib, pandas, jupyterlab)
 ```
-Note: Installation steps is not unique for all systems and Python versions. The goal of manual just give you a nice direction. Play with installation, search for any upcomming issues. Most of the solved alredy and available online. 
+4. Launch Jupyter Notebook or Jupyter Lab:
+```
+jupyter notebook 
+```
+
+**Note:** Installation steps is not unique for all systems and Python versions. The goal of manual just give you a nice direction. Play with installation, search for any upcomming issues. Most of the solved alredy and available online. 
 
 
-### Preliminary syllabus 
-
-Dataset: Titanic
+## Course Content
 
 ### Preparation
- - Lecture: types of data
- - Python
-    - Matrix Multiplication
-    - Find Difference Between Dates
- - Numpy 
- - Matplotlib/ggplot
- - Pandas 
- 
-### Model selection
-  - Lecture: when acc is not working
-  - Confusion matrix
-  - Type of errors
-  - Model quality (under/over fit, cv)
-  - Evaluation metrics
-    - accuracy
-    - precision and recall 
-    - F1 score
-    - F beta score
-    - ROC
-    - RMSE, MSE, R2
-    
-### Probability
-  - Disrete, Cont Distr
-  - PDF, CDF, CLT
+
+1. [Intro to Python]()
+2. [Intro to Numpy]() 
+3. [Intro to Matplotlib/Seaborn/Plotly]()
+4. [Intro to Pandas]()
