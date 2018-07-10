@@ -1,11 +1,11 @@
-# Introduction to Data Science with Python 
+## Introduction to Data Science with Python 
 
-## Course Content
+### Course Content
 
-### Preparation
+#### Preparation
 
-1. [Intro to Python](Notebooks/intro_to_python.ipynb)
-2. [Intro to Numpy]() 
+1. Python [lecture](Notebooks/intro_to_python.ipynb) [lab](Notebooks/python_lab.ipynb)
+2. Numpy [lecture]() 
 3. [Intro to Matplotlib]()
 4. [Intro to Pandas]()
 
