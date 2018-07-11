@@ -6,7 +6,7 @@
 
 1. Python     [[lecture]](Notebooks/intro_to_python.ipynb)  
 2. Numpy      [[lecture]](Notebooks/intro_to_numpy.ipynb)   
-3. Matplotlib 
+3. Matplotlib [[lecture]](Notebooks/intro_to_matplotlib.ipynb) 
 4. Pandas     
 
 #### Supervised Learning
