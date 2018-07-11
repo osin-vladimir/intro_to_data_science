@@ -15,7 +15,7 @@
 #### Deep Learning
 
 
-### Course Initiative: car
+### Course Initiative: 
 
 * [Vladimir Osin](https://www.linkedin.com/in/vosin/) 
 
