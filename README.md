@@ -11,8 +11,8 @@
 4. Pandas     [[lecture]](Notebooks/intro_to_pandas.ipynb)
 
 #### Supervised Learning
-0. Regression 
-1. Classification 
+0. Linear Models 
+1. CART - Classification and Regression Trees
 
 #### Unsupervised Learning
 0. KMeans Clustering
