@@ -11,8 +11,13 @@
 4. Pandas     [[lecture]](Notebooks/intro_to_pandas.ipynb)
 
 #### Supervised Learning
+0. Regression 
+1. Classification 
+
 #### Unsupervised Learning
-#### Deep Learning
+0. KMeans Clustering
+1. Hierarchical Clustering
+2. Density Based Clustering
 
 
 ### Course Initiative: 
