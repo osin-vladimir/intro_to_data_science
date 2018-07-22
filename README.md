@@ -18,6 +18,7 @@
 0. KMeans Clustering
 1. Hierarchical Clustering
 2. Density Based Clustering
+3. Dimensionality Reduction 
 
 ### Reinforcement Learning 
 
