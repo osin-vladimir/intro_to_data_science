@@ -19,6 +19,8 @@
 1. Hierarchical Clustering
 2. Density Based Clustering
 
+### Reinforcement Learning 
+
 
 ### Course Initiative: 
 
