@@ -11,7 +11,20 @@
       - Matplotlib [[lecture]](Notebooks/intro_to_matplotlib.ipynb) 
       - Pandas (WIP)    [[lecture]](Notebooks/intro_to_pandas.ipynb)
 2. Supervised Learning 
+   - Linear Regression
+   - Perceptron
+   - Naive Bayes
+   - Support Vector Machines
+   - Decision Trees
+   - Ensembling Methods
 3. Unsupervised Learning 
+   - Clustering
+   - Hierarchical and Density-Based Clustering 
+   - Gaussian Mixture Model and Cluster Validation 
+   - PCA
+   - Feature Scaling 
+4. Deep Learning
+5. Reinforcement Learning
    
 ### Course Initiative: 
 
