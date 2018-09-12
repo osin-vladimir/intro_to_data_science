@@ -24,9 +24,6 @@
    - PCA
    - Feature Scaling 
 4. Deep Learning
-   - MNIST example
-   - GANs
-   -
 5. Reinforcement Learning
    
 ### Course Initiative: 
