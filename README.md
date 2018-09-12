@@ -1,15 +1,15 @@
 ## Introduction to Data Science with Python 
 
-
+<img src="https://media.licdn.com/dms/image/C5612AQEfw2TRbG7h9g/article-inline_image-shrink_1000_1488/0?e=1542240000&v=beta&t=IUcPtcuV4mBjK6B4096K_xI0HOVxlpLc88jDaghHNiA" width="300" height="250"/>
 
 ### Course Content
-1. Preparation
+1. Preparation [[lecture]](Modules/Preparation/lectures/Le
    - Please install required libraries using [this](Resources/installation.md) manual
    - Familiarize yourself with:
       - Python     [[lecture]](Notebooks/intro_to_python.ipynb) 
       - Numpy      [[lecture]](Notebooks/intro_to_numpy.ipynb)  
       - Matplotlib [[lecture]](Notebooks/intro_to_matplotlib.ipynb) 
-      - Pandas (WIP)    [[lecture]](Notebooks/intro_to_pandas.ipynb)
+      - Pandas     [[lecture]](Notebooks/intro_to_pandas.ipynb)
 2. Supervised Learning 
    - Linear Regression
    - Perceptron
