@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/C5612AQEfw2TRbG7h9g/article-inline_image-shrink_1000_1488/0?e=1542240000&v=beta&t=IUcPtcuV4mBjK6B4096K_xI0HOVxlpLc88jDaghHNiA" width="300" height="250"/>
 
 ### Course Content
-1. Preparation [[lecture]](Modules/Preparation/lectures/Le
+1. Preparation [[lecture]] (WIP)
    - Please install required libraries using [this](Resources/installation.md) manual
    - Familiarize yourself with:
       - Python     [[lecture]](Notebooks/intro_to_python.ipynb) 
@@ -24,6 +24,9 @@
    - PCA
    - Feature Scaling 
 4. Deep Learning
+   - MNIST example
+   - GANs
+   -
 5. Reinforcement Learning
    
 ### Course Initiative: 
