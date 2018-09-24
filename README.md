@@ -6,17 +6,13 @@
 1. Preparation [[lecture]](Modules/1-Preparation/Lecture%201%20-%20General%20Introduction.pdf) [[assignment]](Modules/1-Preparation/notebooks/assignment_1.ipynb)
    - Please install required libraries using [this](Resources/installation.md) manual
    - Familiarize yourself with:
-      - Python     [[notebook]](Modules/1-Preparation/notebooks/intro_to_python.ipynb) 
-      - Numpy      [[notebook]](Modules/1-Preparation/notebooks/intro_to_numpy.ipynb)  
-      - Matplotlib [[notebook]](Modules/1-Preparation/notebooks/intro_to_matplotlib.ipynb) 
-      - Pandas     [[notebook]](Modules/1-Preparation/notebooks/intro_to_pandas.ipynb)
-2. Supervised Learning 
-   - Linear Regression
-   - Perceptron
-   - Naive Bayes
-   - Support Vector Machines
-   - Decision Trees
-   - Ensembling Methods
+      - Python     [[notebook]](Modules/1-Preparation/notebooks/intro_to_python.ipynb) [[cheat_sheet]](Resources/cheatsheets/PythonForDataScience.pdf)
+      - Numpy      [[notebook]](Modules/1-Preparation/notebooks/intro_to_numpy.ipynb)  [[cheat_sheet]](Resources/cheatsheets/Numpy_Python_Cheat_Sheet.pdf)
+      - Matplotlib [[notebook]](Modules/1-Preparation/notebooks/intro_to_matplotlib.ipynb) [[cheat_sheet]](Resources/cheatsheets/Python_Matplotlib_Cheat_Sheet.pdf)
+      - Pandas     [[notebook]](Modules/1-Preparation/notebooks/intro_to_pandas.ipynb) [[cheat_sheet]](Resources/cheatsheets/PandasPythonForDataScience.pdf)
+2. Supervised Learning [[scikit learn guide - supervised learning]](http://scikit-learn.org/stable/supervised_learning.html) [[scikit learn cheat_sheet]](Resources/cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+   - Linear Regression (Ridge, Lasso) [[notebook]](Modules/2-Supervised%2Learning/notebooks/linear_regression.ipynb)
+   - Decision Trees (Random Forest, Gradient-boosted trees)[[notebook]](Modules/2-Supervised%2Learning/notebooks/trees.ipynb)
 3. Unsupervised Learning 
    - Clustering
    - Hierarchical and Density-Based Clustering 
