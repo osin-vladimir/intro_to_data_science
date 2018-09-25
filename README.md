@@ -10,9 +10,9 @@
       - Numpy      [[notebook]](Modules/1-Preparation/notebooks/intro_to_numpy.ipynb)  [[cheat_sheet]](Resources/cheatsheets/Numpy_Python_Cheat_Sheet.pdf)
       - Matplotlib [[notebook]](Modules/1-Preparation/notebooks/intro_to_matplotlib.ipynb) [[cheat_sheet]](Resources/cheatsheets/Python_Matplotlib_Cheat_Sheet.pdf)
       - Pandas     [[notebook]](Modules/1-Preparation/notebooks/intro_to_pandas.ipynb) [[cheat_sheet]](Resources/cheatsheets/PandasPythonForDataScience.pdf)
-2. Supervised Learning [[scikit learn guide - supervised learning]](http://scikit-learn.org/stable/supervised_learning.html) [[scikit learn cheat_sheet]](Resources/cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf)
-   - Linear Regression (Ridge, Lasso) [[notebook]](Modules/2-Supervised%2Learning/notebooks/linear_regression.ipynb)
-   - Decision Trees (Random Forest, Gradient-boosted trees)[[notebook]](Modules/2-Supervised%2Learning/notebooks/trees.ipynb)
+2. Supervised Learning [[lecture]](Modules/2-Supervised%2Learning/Lecture%201%20-%20General%20Introduction.pdf) [[notebook]](Modules/2-Supervised%2Learning/notebooks/supervised_learning.ipynb) [[scikit learn cheat_sheet]](Resources/cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+   - Linear Regression (Ridge, Lasso) 
+   - Decision Trees (Random Forest, Gradient-boosted trees)
 3. Unsupervised Learning 
    - Clustering
    - Hierarchical and Density-Based Clustering 
