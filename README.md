@@ -17,6 +17,7 @@
 5. Reinforcement Learning
 ----  
 
+
 ### Course Initiative: 
 
 * [Vladimir Osin](https://www.linkedin.com/in/vosin/) 
