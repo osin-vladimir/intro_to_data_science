@@ -11,8 +11,8 @@
       - Numpy      [[notebook]](Modules/1-Preparation/notebooks/intro_to_numpy.ipynb)  [[cheat_sheet]](Resources/cheatsheets/Numpy_Python_Cheat_Sheet.pdf)
       - Matplotlib [[notebook]](Modules/1-Preparation/notebooks/intro_to_matplotlib.ipynb) [[cheat_sheet]](Resources/cheatsheets/Python_Matplotlib_Cheat_Sheet.pdf)
       - Pandas     [[notebook]](Modules/1-Preparation/notebooks/intro_to_pandas.ipynb) [[cheat_sheet]](Resources/cheatsheets/PandasPythonForDataScience.pdf)
-2. Supervised Learning [[lecture]](Modules/2-Supervised%20Learning/Lecture%2002%20-%20Supervised%20Learning%20.pdf) [[notebook]](Modules/2-Supervised%2Learning/notebooks/supervised_learning.ipynb) [[scikit learn cheat_sheet]](Resources/cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf)
-3. Unsupervised Learning [[lecture]](Modules/3-Unsupervised%20Learning/Lecture%2003%20-%20Unsupervised%20Learning%20.pdf) [[notebook]](Modules/3-Unsupervised%2Learning/notebooks/unsupervised_learning.ipynb)
+2. Supervised Learning [[lecture]](Modules/2-Supervised%20Learning/Lecture%2002%20-%20Supervised%20Learning%20.pdf) [[notebook]](Modules/2-Supervised%20Learning/notebooks/supervised_learning.ipynb) [[scikit learn cheat_sheet]](Resources/cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+3. Unsupervised Learning [[lecture]](Modules/3-Unsupervised%20Learning/Lecture%2003%20-%20Unsupervised%20Learning.pdf) [[notebook]](Modules/3-Unsupervised%20Learning/notebooks/unsupervised_learning.ipynb)
 4. Deep Learning
 5. Reinforcement Learning
 ----  
