@@ -14,7 +14,7 @@
 2. Supervised Learning [[lecture]](Modules/2-Supervised%20Learning/Lecture%2002%20-%20Supervised%20Learning%20.pdf) [[notebook]](Modules/2-Supervised%20Learning/notebooks/supervised_learning.ipynb) [[scikit learn cheat_sheet]](Resources/cheatsheets/Scikit_Learn_Cheat_Sheet_Python.pdf)
 3. Unsupervised Learning [[lecture]](Modules/3-Unsupervised%20Learning/Lecture%2003%20-%20Unsupervised%20Learning.pdf) [[notebook]](Modules/3-Unsupervised%20Learning/notebooks/unsupervised_learning.ipynb)
 4. Deep Learning [[lecture]](Modules/4-Deep%20Learning/Lecture%2004%20-%20Deep%20Learning.pdf) [[notebook]](Modules/4-Deep%20Learning/notebooks/keras_example.ipynb) [[keras cheat_sheet]](Resources/cheatsheets/Keras_Cheat_Sheet_Python.pdf)
-5. Reinforcement Learning
+5. Reinforcement Learning [[lecture]](Modules/5-Reinforcement%20Learning/Lecture%2005%20-%20Reinforcement%20Learning.pdf)  [[notebook]](Modules/5-Reinforcement%20Learning/notebooks/reinforcement_learning_pytorch.ipynb)
 ----  
 
 
