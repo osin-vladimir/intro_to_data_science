@@ -21,6 +21,8 @@
 ### Course Initiative: 
 
 * [Vladimir Osin](https://www.linkedin.com/in/vosin/) 
+----  
 
+### Places where this course has been taught (physically) 
 
-
+* [Philips Lighting / Signify](https://www.signify.com)
