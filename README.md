@@ -1,6 +1,6 @@
 ## Introduction to Data Science with Python 
 
-<img src="https://media.licdn.com/dms/image/C5612AQEfw2TRbG7h9g/article-inline_image-shrink_1000_1488/0?e=1542240000&v=beta&t=IUcPtcuV4mBjK6B4096K_xI0HOVxlpLc88jDaghHNiA" width="300" height="250"/>
+<img src="https://media.licdn.com/dms/image/C5612AQEfw2TRbG7h9g/article-inline_image-shrink_1000_1488/0?e=1547683200&v=beta&t=LEcbNd775qFwwGwkpFZ7XqQBXlXfBzyobIwOik6gWQA" width="300" height="250"/>
 
 ----
 ### Course Content
