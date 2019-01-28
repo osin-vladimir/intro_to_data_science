@@ -1,7 +1,5 @@
 ## Introduction to Data Science with Python 
 
-<img src="https://media.licdn.com/dms/image/C5612AQEfw2TRbG7h9g/article-inline_image-shrink_1000_1488/0?e=1547683200&v=beta&t=LEcbNd775qFwwGwkpFZ7XqQBXlXfBzyobIwOik6gWQA" width="300" height="250"/>
-
 ----
 ### Course Content
 1. Preparation [[lecture]](Modules/1-Preparation/Lecture%201%20-%20General%20Introduction.pdf) [[assignment]](Modules/1-Preparation/notebooks/assignment_1.ipynb)
