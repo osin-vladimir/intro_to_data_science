@@ -1,6 +1,5 @@
 ## Introduction to Data Science with Python 
 
-----
 ### Course Content
 1. Preparation [[lecture]](Modules/1-Preparation/Lecture%201%20-%20General%20Introduction.pdf) [[assignment]](Modules/1-Preparation/notebooks/assignment_1.ipynb)
    - Please install required libraries using [this](Resources/installation.md) manual
